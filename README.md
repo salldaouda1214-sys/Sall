@@ -27,7 +27,8 @@ int main()
     {
         printf("ajourne\n");
     }
-
+printf("ajoute l'âge");
+if (f > 18)
     return 0;
 }
  
