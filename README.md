@@ -26,6 +26,18 @@ int main()
     else
     {
         printf("ajourne\n");
+    } 
+    
+    if (S >= 14)
+    {
+        printf("Homme");
+
+    }
+    else
+    {
+
+      printf("Femme");
+
     }
 printf("ajoute l'âge");
 if (f > 18)
